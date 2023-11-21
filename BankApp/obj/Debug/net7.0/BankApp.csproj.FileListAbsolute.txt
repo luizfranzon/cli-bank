@@ -1,0 +1,14 @@
+C:\Users\luizf\RiderProjects\BankApp\BankApp\bin\Debug\net7.0\BankApp.exe
+C:\Users\luizf\RiderProjects\BankApp\BankApp\bin\Debug\net7.0\BankApp.deps.json
+C:\Users\luizf\RiderProjects\BankApp\BankApp\bin\Debug\net7.0\BankApp.runtimeconfig.json
+C:\Users\luizf\RiderProjects\BankApp\BankApp\bin\Debug\net7.0\BankApp.dll
+C:\Users\luizf\RiderProjects\BankApp\BankApp\bin\Debug\net7.0\BankApp.pdb
+C:\Users\luizf\RiderProjects\BankApp\BankApp\obj\Debug\net7.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\RiderProjects\BankApp\BankApp\obj\Debug\net7.0\BankApp.AssemblyInfoInputs.cache
+C:\Users\luizf\RiderProjects\BankApp\BankApp\obj\Debug\net7.0\BankApp.AssemblyInfo.cs
+C:\Users\luizf\RiderProjects\BankApp\BankApp\obj\Debug\net7.0\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\luizf\RiderProjects\BankApp\BankApp\obj\Debug\net7.0\BankApp.dll
+C:\Users\luizf\RiderProjects\BankApp\BankApp\obj\Debug\net7.0\refint\BankApp.dll
+C:\Users\luizf\RiderProjects\BankApp\BankApp\obj\Debug\net7.0\BankApp.pdb
+C:\Users\luizf\RiderProjects\BankApp\BankApp\obj\Debug\net7.0\BankApp.genruntimeconfig.cache
+C:\Users\luizf\RiderProjects\BankApp\BankApp\obj\Debug\net7.0\ref\BankApp.dll
